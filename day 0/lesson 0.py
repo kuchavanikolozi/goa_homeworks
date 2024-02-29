@@ -25,9 +25,12 @@ color("yellow")
 left(90)
 forward(100) #heightofdoor
 right(90)
+
 forward(60)
 right (90)
+
 forward(100)
+
 penup()
 goto(200,200)
 pendown()
@@ -44,23 +47,32 @@ end_fill()
 penup()
 goto(20,125)
 pendown()
+
 left(210)
 forward(50)
+
 right(90)
 forward(50)
+
 left(270)
 forward(50)
+
 right(90)
 forward(50)
+
 penup()
 goto(125,125)
 pendown()
+
 left(180)
 forward(50)
+
 left(90)
 forward(50)
+
 left(90)
 forward(50)
+
 left(90)
 forward(50)
 
