@@ -1,7 +1,7 @@
 name = "Nika"
 surname = "Kuchava"
 age= 15
-height = 148.5
+height = 144.5
 knows_programming = False
 is_ugly = False
 
